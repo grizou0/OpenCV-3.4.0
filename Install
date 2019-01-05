@@ -126,6 +126,9 @@ After the successful build install the build using the following command
 sudo make install
 sudo ldconfig
 
+si import cv2 dans python donne une erreur, faire:
+sudo pip install opencv-python
+
 Step 9: Verify the OpenCV build
         -----------------------
 After running make install, OpenCV + Python bindings should be installed in 
