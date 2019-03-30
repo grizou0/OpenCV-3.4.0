@@ -237,3 +237,9 @@ Activate and Deactivate your Virtual Environment
 Activate
 source ~/cvpi/bin/active
 ------------------------------
+Erreur possible sous ubuntu 16.04:
+si import cv2 fonctionne sur python3.5 et non python (version2.7)
+faire:
+sudo pip2.7 install opencv-python
+
+
