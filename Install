@@ -244,7 +244,7 @@ sudo pip2.7 install opencv-python
 
 # Erreur import python                                     
 faire                                                      
-sudo apt install opencv-python                                                      
-sudo pip install python-opencv                                                            
+sudo apt install python-opencv                                                      
+sudo pip install opencv-python                                                            
 --------------------------------------
 
