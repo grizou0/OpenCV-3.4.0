@@ -242,4 +242,9 @@ si import cv2 fonctionne sur python3.5 et non python (version2.7)
 faire:
 sudo pip2.7 install opencv-python
 
+# Erreur import python                                     
+faire                                                      
+sudo apt install opencv-python                                                      
+sudo pip install python-opencv                                                            
+--------------------------------------
 
